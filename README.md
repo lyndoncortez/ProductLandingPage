@@ -3,9 +3,9 @@
 💾 You can Preview it here: [Product Landing Page](https://product-landing-roshe.netlify.app)
 <br>
 <br>
+<img src="https://pro2-bar-s3-cdn-cf4.myportfolio.com/f39ec908-8957-4c67-a6b7-e3bc528bb6e2/f2598f43-c4c9-4cae-9865-dec90b2830a8_rw_1920.png?h=ecb0013e23a497d5e1ded29a0dd58b38">
 
-<strong>Objective:</strong> Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/RKRbwL.
-
+<strong>Objective:</strong>
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
 You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
